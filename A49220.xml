@@ -1,0 +1,140 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The French King's declaration to prevent the assemblies of the nevv converts, in the provinces of his kingdom.</title>
+            <author>France. Sovereign (1643-1715 : Louis XIV)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 3 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A49220</idno>
+            <idno type="STC">Wing L3116A</idno>
+            <idno type="STC">ESTC R224118</idno>
+            <idno type="EEBO-CITATION">99834592</idno>
+            <idno type="PROQUEST">99834592</idno>
+            <idno type="VID">39094</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A49220)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 39094)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1814:06)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The French King's declaration to prevent the assemblies of the nevv converts, in the provinces of his kingdom.</title>
+                  <author>France. Sovereign (1643-1715 : Louis XIV)</author>
+                  <author>Louis XIV, King of France, 1638-1715.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed at Paris: and reprinted at London, for Richard Baldwin near the Black Bull in the Old-Bailey,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>At end of text: Given at Versailles the twelfth of March, 1689.</note>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>France --  History --  Louis XIV, 1643-1715 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2006-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2006-12</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="royal_declaration">
+            <pb facs="tcp:39094:1"/>
+            <pb facs="tcp:39094:1" rendition="simple:additions"/>
+            <head>THE French King's Declaration To prevent the Aſſemblies of the NEW CONVERTS, <hi>In the Provinces of his KINGDOM.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">H</seg>IS Majeſty having had Notice of ſeveral Aſſemblies and conſiderable Commotions that have been made in his Provinces of <hi>Dauphiné</hi> and <hi>Vi<g ref="char:EOLhyphen"/>varez,</hi> from the Firſt till the Twentieth of the Month of <hi>February</hi> laſt, by the new Converts of the ſaid Provinces; and meaning to put a ſtop to the Continuation of ſuch-like Diſorders, and hinder that the like may not happen for the future, either in the ſaid Provinces of <hi>Dauphiné</hi> and <hi>Vivarez,</hi> or in the other Provinces of his Realm, <hi>His Majeſty has Ordered, and does Order,</hi> Wills, and Commands, That Proceſs be im<g ref="char:EOLhyphen"/>mediately entred and perfected againſt all and every ſuch Perſon and Per<g ref="char:EOLhyphen"/>ſons, as well of the ſaid Provinces of <hi>Dauphiné</hi> and <hi>Vivarez,</hi> as of others of his Realm, who have been preſent, or ſhall hereafter be preſent in the ſaid Aſſemblies. And that ſuch of the ſaid Crimi<g ref="char:EOLhyphen"/>nals as have been, or ſhall be caught in the Fact, be puniſhed with Death, conformably to what is directed by His Majeſty's Edict of the Month of <hi>October,</hi> 1685. and his Declaration of the Firſt of <hi>July,</hi> 1686. And that as for others who could not be ſeized upon the Spot, but who, nevertheleſs, ſhall be known to have aſſiſted at the ſaid Meetings, that they, by the Orders of the Governours and Lieutenant-Generals for His Majeſty in his Provinces, or his Commanders in the ſame, or in their abſence, by the Intendants in the ſaid Provinces, be ſent immediately, and without other form of Proceſs, to His Majeſty's Galleys, there to ſerve as Galley-Slaves du<g ref="char:EOLhyphen"/>ring Life.</p>
+            <p>
+               <hi>His Majeſty Orders and Commands</hi> the Governours and his Lieutenant-Generals in his Provin<g ref="char:EOLhyphen"/>ces, Commanders in the ſame, Intendants, and Commiſſaries appointed in the ſaid Provinces, Bayliffs, Senechals, Provoſts, Judges, their Lieutenants, and all other his Juſtices, and Officers, to whom it ſhall belong, to ſee to and Aſſiſt, each within his Juriſdiction, to the exact Obſervation of theſe Preſents, which His Majeſty will have Publiſh'd and Affix'd in all Places that ſhall be needful, that ſo none may pretend cauſe of Ignorance.</p>
+            <closer>
+               <dateline>Given at <hi>Verſailles</hi> 
+                  <date>the Twelfth of <hi>March,</hi> 1689.</date>
+               </dateline>
+               <signed>Signed <hi>LO<g ref="char:V">Ʋ</g>IS.</hi>
+               </signed>
+            </closer>
+            <argument>
+               <p>And lower, <hi>Le Tellier.</hi>
+               </p>
+            </argument>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed at <hi>Paris:</hi> and Reprinted at <hi>London,</hi> for <hi>Richard Baldwin</hi> near the <hi>Black Bull</hi> in the <hi>Old-Bailey.</hi> 1689.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
